@@ -9,7 +9,6 @@ I'm looking for an **international final-year internship in 2027**.
 ### Right now
 
 - Building a GenAI document analysis platform with Thales Services Numériques, my final-year project
-- Working through the IBM AI Engineering Professional Certificate
 
 ### Featured projects
 
@@ -78,8 +77,8 @@ More projects, with screenshots and design notes, on my [portfolio](https://eren
 
 ### Certifications
 
+- [IBM AI Engineering Professional Certificate](https://erenntekin.github.io/certifications/ibm-ai-engineering/)
 - [IBM Machine Learning Professional Certificate](https://erenntekin.github.io/certifications/ibm-machine-learning/)
-- IBM AI Engineering Professional Certificate · *ongoing*
 
 ### Contact
 
