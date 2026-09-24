@@ -40,7 +40,7 @@ I'm looking for an **international final-year internship in 2027**.
       Final-year project with Thales Services Numériques.
       Compares keyword search, RAG, GraphRAG and a knowledge graph for document analysis.<br /><br />
       <sub>Java · Spring Boot · Spring AI · OpenSearch · React</sub><br /><br />
-      <a href="https://erenntekin.github.io/projects/genai-document-analysis/">Case study</a> · <a href="https://github.com/erenntekin/PFE-GenAI-Document-Analysis">Code</a>
+      <a href="https://erenntekin.github.io/projects/genai-document-analysis/">Case study</a> · Private repo while in progress
     </td>
   </tr>
 </table>
