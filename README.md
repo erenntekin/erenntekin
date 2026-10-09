@@ -79,6 +79,7 @@ More projects, with screenshots and design notes, on my [portfolio](https://eren
 
 - [IBM AI Engineering Professional Certificate](https://erenntekin.github.io/certifications/ibm-ai-engineering/)
 - [IBM Machine Learning Professional Certificate](https://erenntekin.github.io/certifications/ibm-machine-learning/)
+- [Google Cybersecurity Professional Certificate](https://erenntekin.github.io/certifications/google-cybersecurity/)
 
 ### Contact
 
