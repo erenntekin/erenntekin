@@ -20,7 +20,7 @@ I'm looking for an **international final-year internship in 2027**.
       Real-time threat intelligence pipeline.<br />
       Pulls four live threat feeds and scores attacker IPs with two ML models, then shows what to block first.<br /><br />
       <sub>Kafka · Spark · scikit-learn · PostgreSQL · FastAPI · React</sub><br /><br />
-      <a href="https://erenntekin.github.io/projects/ghostnet/">Case study</a> · <a href="https://github.com/erenntekin/GhostNet">Code</a>
+      <a href="https://erenntekin.github.io/projects/ghostnet/">Case study</a> · Private repo, code on request
     </td>
   </tr>
   <tr>
