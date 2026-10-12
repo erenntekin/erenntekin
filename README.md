@@ -14,7 +14,7 @@ I'm looking for an **international final-year internship in 2027**.
 
 <table>
   <tr>
-    <td width="45%"><a href="https://erenntekin.github.io/projects/ghostnet/"><img src="https://erenntekin.github.io/projects/ghostnet/live.gif" alt="GhostNet live dashboard" width="100%" /></a></td>
+    <td width="42%"><a href="https://erenntekin.github.io/projects/ghostnet/"><img src="assets/ghostnet.jpg" alt="GhostNet live threat intelligence dashboard" width="100%" /></a></td>
     <td>
       <b><a href="https://erenntekin.github.io/projects/ghostnet/">GhostNet</a></b><br />
       Real-time threat intelligence pipeline.<br />
@@ -24,7 +24,7 @@ I'm looking for an **international final-year internship in 2027**.
     </td>
   </tr>
   <tr>
-    <td width="45%" align="center"><a href="https://erenntekin.github.io/projects/mybelly/"><img src="https://erenntekin.github.io/projects/mybelly/demo.gif" alt="MyBelly app demo" height="320" /></a></td>
+    <td width="42%"><a href="https://erenntekin.github.io/projects/mybelly/"><img src="assets/mybelly.jpg" alt="MyBelly mobile AI assistant" width="100%" /></a></td>
     <td>
       <b><a href="https://erenntekin.github.io/projects/mybelly/">MyBelly</a></b><br />
       Nutrition app with an AI agent.<br />
@@ -34,7 +34,7 @@ I'm looking for an **international final-year internship in 2027**.
     </td>
   </tr>
   <tr>
-    <td width="45%"><a href="https://erenntekin.github.io/projects/coldeye/"><img src="https://erenntekin.github.io/projects/coldeye/desk-pickup.png" alt="Coldeye live perception dashboard" width="100%" /></a></td>
+    <td width="42%"><a href="https://erenntekin.github.io/projects/coldeye/"><img src="assets/coldeye.png" alt="Coldeye live perception dashboard" width="100%" /></a></td>
     <td>
       <b><a href="https://erenntekin.github.io/projects/coldeye/">Coldeye</a></b><br />
       On-device computer vision perception system.<br />
@@ -44,7 +44,8 @@ I'm looking for an **international final-year internship in 2027**.
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td width="42%"><a href="https://erenntekin.github.io/projects/genai-document-analysis/"><img src="assets/genai.png" alt="Document Intelligence and GraphRAG platform" width="100%" /></a></td>
+    <td>
       <b><a href="https://erenntekin.github.io/projects/genai-document-analysis/">Document Intelligence & GraphRAG Platform</a></b> (Thales Partnership) · <i>ongoing</i><br />
       Final-year engineering capstone project in partnership with Thales Services Numériques.<br />
       Combines document intelligence, custom domain ontologies, and GraphRAG to structure and query technical corpora.<br /><br />
