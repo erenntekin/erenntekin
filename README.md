@@ -8,7 +8,7 @@ I'm looking for an **international final-year internship in 2027**.
 
 ### Right now
 
-- Building a GenAI document analysis platform with Thales Services Numériques, my final-year project
+- Building an enterprise document intelligence and GraphRAG platform in partnership with Thales Services Numériques (Final-Year Project)
 
 ### Featured projects
 
@@ -34,11 +34,21 @@ I'm looking for an **international final-year internship in 2027**.
     </td>
   </tr>
   <tr>
+    <td width="45%"><a href="https://erenntekin.github.io/projects/coldeye/"><img src="https://erenntekin.github.io/projects/coldeye/desk-pickup.png" alt="Coldeye live perception dashboard" width="100%" /></a></td>
+    <td>
+      <b><a href="https://erenntekin.github.io/projects/coldeye/">Coldeye</a></b><br />
+      On-device computer vision perception system.<br />
+      Tracks postures and hand-object interactions on live video, turning movements into an event timeline without cloud dependencies.<br /><br />
+      <sub>Python · YOLO11 · ByteTrack · PyTorch · OpenCV · SQLite · Next.js</sub><br /><br />
+      <a href="https://erenntekin.github.io/projects/coldeye/">Case study</a> · Private repo, code on request
+    </td>
+  </tr>
+  <tr>
     <td colspan="2">
-      <b><a href="https://erenntekin.github.io/projects/genai-document-analysis/">GenAI Document Intelligence Platform</a></b> · <i>ongoing</i><br />
-      Final-year project with Thales Services Numériques.
-      Compares keyword search, RAG, GraphRAG and a knowledge graph for document analysis.<br /><br />
-      <sub>Java · Spring Boot · Spring AI · OpenSearch · React</sub><br /><br />
+      <b><a href="https://erenntekin.github.io/projects/genai-document-analysis/">Document Intelligence & GraphRAG Platform</a></b> (Thales Partnership) · <i>ongoing</i><br />
+      Final-year engineering capstone project in partnership with Thales Services Numériques.<br />
+      Combines document intelligence, custom domain ontologies, and GraphRAG to structure and query technical corpora.<br /><br />
+      <sub>Java · Spring Boot · Spring AI · OpenSearch · PostgreSQL · React</sub><br /><br />
       <a href="https://erenntekin.github.io/projects/genai-document-analysis/">Case study</a> · Private repo while in progress
     </td>
   </tr>
