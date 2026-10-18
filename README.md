@@ -14,6 +14,26 @@ I'm looking for an **international final-year internship in 2027**.
 
 <table>
   <tr>
+    <td width="42%"><a href="https://erenntekin.github.io/projects/lucid/"><img src="assets/lucid.png" alt="LUCID runtime AI agent firewall" width="100%" /></a></td>
+    <td>
+      <b><a href="https://erenntekin.github.io/projects/lucid/">LUCID</a></b><br />
+      Runtime guardrail firewall for AI agents.<br />
+      Intercepts function calls before execution, blocks recursive loops, and stops prompt injection. Tested on MyBelly against 19 OWASP attack vectors.<br /><br />
+      <sub>Python · Pydantic v2 · Typer · Rich · Pytest · OWASP LLM Top 10</sub><br /><br />
+      <a href="https://erenntekin.github.io/projects/lucid/">Case study</a> · Private repo, code on request
+    </td>
+  </tr>
+  <tr>
+    <td width="42%"><a href="https://erenntekin.github.io/projects/mirage/"><img src="assets/mirage.png" alt="MIRAGE offensive security scanner" width="100%" /></a></td>
+    <td>
+      <b><a href="https://erenntekin.github.io/projects/mirage/">MIRAGE</a></b><br />
+      Automated offensive security scanner for AI agents.<br />
+      Stress-tests agents against 19 OWASP attack vectors, verifies real database and API impacts, and synthesizes runtime guardrails.<br /><br />
+      <sub>Python · Typer · Rich · Pytest · OWASP LLM Top 10 · TypeScript</sub><br /><br />
+      <a href="https://erenntekin.github.io/projects/mirage/">Case study</a> · Private repo, code on request
+    </td>
+  </tr>
+  <tr>
     <td width="42%"><a href="https://erenntekin.github.io/projects/ghostnet/"><img src="assets/ghostnet.jpg" alt="GhostNet live threat intelligence dashboard" width="100%" /></a></td>
     <td>
       <b><a href="https://erenntekin.github.io/projects/ghostnet/">GhostNet</a></b><br />
